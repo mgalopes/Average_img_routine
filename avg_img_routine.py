@@ -32,6 +32,6 @@ def main(folder_path, output_path):
         print("No valid images found in the folder.")
 
 if __name__ == "__main__":
-    folder_path = "/home/mglopes/Documents/Lab spray dynamics/Coflow/Ensaios/2024_01_15/div/70_bar/sample"
-    output_path = "/home/mglopes/Documents/GitHub/Average_img_routine/average_image.png"
+    folder_path = "/Users/garci/Desktop/Test1/gasolina_div_40C_50bar"
+    output_path = "/Users/garci/Desktop/Test1/gasolina_div_40C_50bar.png"
     main(folder_path, output_path)
