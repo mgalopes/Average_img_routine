@@ -32,6 +32,6 @@ def main(folder_path, output_path):
         print("No valid images found in the folder.")
 
 if __name__ == "__main__":
-    folder_path = "/Users/garci/Desktop/Test1/gasolina_div_40C_50bar"
-    output_path = "/Users/garci/Desktop/Test1/gasolina_div_40C_50bar.png"
+    folder_path = "C:/Users/garci/Documents/GitHub/Spray-concentration-map/output_images/colormap"
+    output_path = "/Users/garci/Desktop/Test1/gasolina_div_25C_70bar.png"
     main(folder_path, output_path)
