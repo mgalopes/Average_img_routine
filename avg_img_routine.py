@@ -33,5 +33,5 @@ def main(folder_path, output_path):
 
 if __name__ == "__main__":
     folder_path = "C:/Users/garci/Documents/GitHub/Spray-concentration-map/output_images/colormap"
-    output_path = "/Users/garci/Desktop/Test1/gasolina_div_25C_70bar.png"
+    output_path = "/Users/garci/Desktop/Test1/agua_dest_div_25_70bar2.png"
     main(folder_path, output_path)
